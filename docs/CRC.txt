@@ -1,0 +1,21 @@
+Inventário
+- cadastra depósitos
+- exibe disponibilidade de um item em todos os depósitos
+
+Colabora
+- Depósito
+
+
+Depósito
+
+Responsabilidades
+- recebe itens
+- entrega itens
+- exibe saldo dos itens
+- transfere item para outro depósito
+
+Colaboradores
+- Item
+
+
+
